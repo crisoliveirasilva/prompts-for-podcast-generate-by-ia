@@ -1,0 +1,78 @@
+Você é um roteirista de podcast, e iremos criar um podcast sobre o tema: Pequenas mudanças de hábito que podem transformar sua carreira, e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast que tenha alguma expressão chamativa e não seja nome muito longo. 
+
+O podcast vai falar sobre dicas de ações que a princípio são vistas como pequenas, mas que ao longo do tempo se tornam hábitos e podem mudar a carreira das pessoas.
+
+{REGRAS}
+
+- O nome deve ser enxuto, mas significativo e de fácil compreensão, um nome e um subtítulo 
+
+- O nome deve conter alguma palavra forte que remeta a hábito 
+
+{REGRAS NEGATIVAS}
+
+- Não quero que o título contenha palavras em inglês
+- Não quero que utilize a palavra trabalho
+
+
+"Poder dos Hábitos"
+Transforme sua carreira com pequenas mudanças diárias.
+
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Você é um roteirista de podcast, e vamos criar um  episódio de um podcast sobre o tema: Pequenas mudanças de hábito que podem transformar sua carreira, cujo nome é: "Poder dos Hábitos" e deverá abordar formas simples para transformar carreiras com pequenas mudanças diárias. O público alvo será profissionais de qualquer área, tanto iniciantes quanto experientes. O formato do episódio deve ser:
+[INTRODUÇÃO]
+[DICA1] 
+[DICA 2] 
+[DICA 3] 
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução que seja leve, não formal, como se fosse um youtuber, e que as pessoas fiquem interessadas e curiosas em continuar ouvindo
+- no bloco [DICA 1] substitua por uma dica de pequena mudança
+- no bloco [DICA 2] substitua por mais uma dica
+- no bloco [DICA 3] substitua por mais uma dica
+- no bloco [AÇÃO 4] mostre formas práticas de colocar as dicas em ação
+- no bloco [FINALIZAÇÃO] substitua por uma conclusão das diCas se transformando em hábito, e uma despedida com encorajamento aos ouvintes.
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, Cris Oliveira
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 3 minutos de duração
+
+
+Podcast: "Poder dos Hábitos"
+
+[INTRODUÇÃO]
+
+Oi, oi, gente! Aqui é a Cris Oliveira e seja bem-vindo ao "Poder dos Hábitos". Hoje eu vou te contar como pequenas mudanças no seu dia podem transformar sua carreira, sem precisar fazer grandes sacrifícios ou virar a vida de cabeça para baixo. Se você acha que é difícil mudar de rumo ou alcançar grandes coisas, fica comigo, porque as soluções estão nas pequenas atitudes diárias! Bora aprender a aplicar isso agora? Vamos nessa!
+
+[DICA 1]
+Comece o Dia com uma Intenção Clara
+
+A primeira dica é bem simples, mas poderosa: comece o dia com uma intenção clara. Pode parecer algo pequeno, mas o simples ato de definir o que você quer alcançar no seu dia já faz toda a diferença. Em vez de começar a correria sem saber exatamente onde quer chegar, pare por 5 minutos e pense: "Hoje eu quero alcançar X". Esse foco logo cedo pode mudar a forma como você se organiza e prioriza as tarefas durante o dia.
+
+[DICA 2]
+Estabeleça Micro-Metas
+
+Aqui vai outra dica que vai ajudar a transformar sua produtividade: divida suas grandes tarefas em micro-metas. Às vezes, olhamos para um projeto enorme e ficamos paralisados. Mas se você dividir isso em pedaços bem pequenos e alcançáveis, o trabalho parece muito mais leve e você vai se sentir mais motivado. Pense em pequenas vitórias diárias, que ao longo do tempo, vão se somando e resultando em grandes conquistas!
+
+[DICA 3]
+Reserve um Tempo para o Autocuidado
+
+A terceira dica é muitas vezes esquecida, mas é fundamental para o sucesso a longo prazo: reserve um tempo para o autocuidado. Pode ser simples, como 15 minutos para respirar fundo, fazer uma caminhada rápida ou até praticar uma meditação. Cuidar de você mesmo aumenta sua energia, melhora sua concentração e ajuda a manter a mente clara. Lembre-se: um profissional saudável e equilibrado é muito mais produtivo do que alguém sobrecarregado e exausto. Então, não negligencie esse tempo para recarregar as baterias!
+
+[AÇÃO 4]
+Como Colocar em Prática
+
+Agora, como colocar tudo isso em ação? Aqui vai o truque: use o final do dia para refletir e ajustar seus hábitos. Ao fim de cada jornada, tire 5 minutos para revisar o que deu certo ou o que poderia ser melhorado. Defina uma intenção para o próximo dia e escolha uma micro-meta para alcançar, de forma bem prática. Isso vai criar um ciclo de evolução contínuo, que vai se tornando natural e impactando positivamente sua carreira.
+
+[FINALIZAÇÃO]
+
+E aí, gostou? Lembra, são as pequenas ações que fazem toda a diferença, e se você começar a implementá-las no seu dia a dia, vai perceber uma transformação na sua carreira! A chave é não desanimar, ser consistente e celebrar cada pequena vitória. Então, comece hoje mesmo e veja o poder dos hábitos transformando sua vida! Eu sou a Cris Oliveira e esse foi o "Poder dos Hábitos". Até a próxima, pessoal, e bora colocar esses hábitos em prática!
+
+FIM
