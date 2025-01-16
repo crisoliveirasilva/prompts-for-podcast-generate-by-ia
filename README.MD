@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/professional_woman.png"
+    src="./assets/Professional_woman.jpeg"
     width="300"
 />
 </p>
